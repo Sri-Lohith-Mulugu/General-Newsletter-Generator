@@ -174,7 +174,9 @@ http://localhost:5000
 
 \## 📌 Key Features
 
+## 📸 Screenshot
 
+![App Screenshot](screenshot.png)
 
 \- 🔍 \*\*Topic-based filtering\*\* — get only the news you want
 
